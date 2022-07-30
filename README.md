@@ -65,5 +65,5 @@ in your architectures and have as much fun learning them as we had while develop
 
 If you are willing to contribute to the project you will find the relevant information in
 our [developer wiki](https://github.com/Surya-827/java-design-patterns/wiki). We will help
-you and answer your questions in the [Gitter chatroom](https://gitter.im/Surya-827/java-design-patterns).
+you and answer your questions in the [Surya's - Gitter chatroom](https://gitter.im/Surya-827/java-design-patterns).
 
